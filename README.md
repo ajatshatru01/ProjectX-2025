@@ -35,17 +35,13 @@ This is the list of projects completed in the 2025 programme.
 
 ***
 ## Train Your Foes
-
-### Description
 <p align="justify">
   <strong>Train Your Foes</strong> is a game where your greatest enemy is a machine that learns from you. Built in <strong>Unity 6</strong>, the game is split into two parts. First, you face <strong>The Gauntlet</strong>: four intense platforming levels that test your speed and precision. If you survive, you enter <strong>The Duel</strong>: a final boss fight that isn't scripted. Instead of following a set pattern, the boss uses <strong>Artificial Intelligence (Q-Learning)</strong> to study your health, energy, and moves. It chooses the best strategy to defeat you based on thousands of past battles, creating a unique challenge that feels alive and unpredictable.
 </p>
-
-### Output Images
 <p align="center">
-  
+  <img width="512" height="447" alt="image" src="https://github.com/user-attachments/assets/386176d2-7cd4-4d94-80bb-2f7acb1e0ef4" />
+  <img width="960" height="537" alt="image" src="https://github.com/user-attachments/assets/df901011-a56f-4277-806a-a0701131565a" />
 </p>
-
 
 ### References
 <p align="justify">
@@ -55,17 +51,13 @@ This is the list of projects completed in the 2025 programme.
   4. <strong>Algorithm:</strong> Custom Q-Learning Implementation using the Bellman Equation:
 </p>
 
-
-
 $$Q(s, a) \leftarrow Q(s, a) + \alpha [R + \gamma \max_{a'} Q(s', a') - Q(s, a)]$$
-
 
 **Mentors:**
 <p align="justify">
   • <a href="https://github.com/Abhay-Varnekar"><strong>Abhay Varnekar</strong></a><br>
   • <a href="https://github.com/Ishaan0132"><strong>Ishaan Shaikh</strong></a>
 </p>
-
 
 **Domains:**
 <p align="justify">
