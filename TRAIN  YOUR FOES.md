@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/images/LOGO.png" alt="Train Your Foes Logo" width="500"/>
+  <img src="https://github.com/AvanishSalunke/TRAIN-YOUR-FOES/blob/main/docs/assets/images/LOGO.png" alt="Train Your Foes Logo" width="500"/>
 </p>
 
 <h3 align="center">
@@ -18,7 +18,7 @@
   <em>--- A glimpse into the abyss ---</em>
 </p>
 <p align="center">
-  <img src="docs/assets/images/Game.jpeg" alt="Game Look" width="500"/>
+  <img src="https://github.com/AvanishSalunke/TRAIN-YOUR-FOES/blob/main/docs/assets/images/Game.jpeg" alt="Game Look" width="500"/>
 </p>
 <br>
 
