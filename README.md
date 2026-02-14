@@ -163,7 +163,7 @@ MuseGan is a GAN-based project for generating multi-track polyphonic music. It c
 </p>
 
 ### References
-All outputs, model checkpoints, and detailed documentation are available in [musegan.md](./musegan.md).
+All outputs, model checkpoints, and detailed documentation are available in [MuseGAN.md](./MuseGAN.md).
 
 **Mentors:**
 - [Kavya Rambhia](https://github.com/kavya-r30)  
