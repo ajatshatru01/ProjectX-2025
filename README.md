@@ -189,12 +189,7 @@ MuseGan is a GAN-based project for generating multi-track polyphonic music. It c
 - [Kavya Rambhia](https://github.com/kavya-r30)  
 - [Swayam Shah](https://github.com/sonu0305)
 
-**Domains:**  
-- Music Generation  
-- Symbolic Polyphonic Music  
-- Generative Adversarial Networks (GANs)  
-- Temporal Sequence Modeling  
-- Human-AI Collaboration
+**Domains:** Music Generation, Generative Adversarial Networks (GANs), Temporal Sequence Modeling  
 
 ***
 
@@ -213,12 +208,11 @@ MuseGan is a GAN-based project for generating multi-track polyphonic music. It c
 
 ## CodeSage
 ### Description
-# CodeSage — AI-Powered Code Interpreter & Explainer
 
 **CodeSage** is a Python-based framework that executes code and explains its logic in simple, human-readable language.  
 It combines compiler concepts with AI-based summarization to help users understand how code works internally.
 
-## Pipeline
+### Pipeline
 - **Lexer** → Converts source code into tokens  
 - **Parser** → Builds an Abstract Syntax Tree (AST)  
 - **Summarizer** → Generates structured explanations  
@@ -226,7 +220,7 @@ It combines compiler concepts with AI-based summarization to help users understa
 - **NLP (Optional)** → Refines explanations  
 - **GUI (Tkinter)** → Editor, output, AST view, summaries  
 
-## Purpose
+### Purpose
 - Help students understand how interpreters work  
 - Explain code behavior clearly  
 - Visualize program structure  
@@ -240,15 +234,13 @@ It combines compiler concepts with AI-based summarization to help users understa
 
 
 ### References
-https://github.com/Mokshii46/CODESAGE
-https://Mokshii46.github.io/CODESAGE/
+- https://github.com/Mokshii46/CODESAGE
+- https://Mokshii46.github.io/CODESAGE/
 
-## Mentors
-Yadnyesh Patil
-Rupak Gupta
+**Mentors**: Yadnyesh Patil, Rupak Gupta
 
-## Domains:
-AST Parsing NLP
+**Domains**: AST Parsing NLP
+
 ***
 
 ## Sera
